@@ -1,6 +1,6 @@
 # SemEval 2017 Task 10
 
-Conditional Random Fields for Subtask A and Subtask B of SemEval 2017 Task 10 \
+Conditional Random Fields for Subtask A and Subtask B of SemEval 2017 Task 10.
 The task is "Extracting Keyphrases and Relations from Scientific Publications".
 * Subtask A : Identification of keyphrases
 * Subtask B : Classification of keyphrases
