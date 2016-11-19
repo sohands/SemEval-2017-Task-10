@@ -5,7 +5,7 @@ The task is "Extracting Keyphrases and Relations from Scientific Publications".
 * Subtask A : Identification of keyphrases
 * Subtask B : Classification of keyphrases
 
-The data and scripts for the task can be obtained at: https://scienceie.github.io/resources.html
+The data and scripts for the task can be obtained at: https://scienceie.github.io/resources.html <br>
 CRF++ can be obtained at: https://taku910.github.io/crfpp/
 
 Files and Folders
